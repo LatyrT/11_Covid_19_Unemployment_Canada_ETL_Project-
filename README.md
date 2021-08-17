@@ -73,14 +73,14 @@ The code is available as follows:
 * Download this entire project from GitHub
 * Run the [Jupyter Notebook](002-Python_&_SQL_Code/001_Data_Cleaning.ipynb) to extract data
 * [Create the tables](002-Python_&_SQL_Code/002_Covid_Tables.sql) in pgAdmin
-* [Load data into the database, see detailed steps in this guide](000-zDocumentation/002_ETL_PROCESS_COVID_19.docx)
+* Load data into the database [see detailed steps in this guide](000-zDocumentation/002_ETL_PROCESS_COVID_19.docx)
 * [Query the tables](002-Python_&_SQL_Code/003_Covid_Queries.sql)
 
 
 ## **7. User Acceptance Testing**
 
 Acceptence criteria:  
-* The entire process must be automated, excpet for the loading of data in the database
+* The entire process must be automated, except for the loading of data in the database
 * Use of a database
 
 
@@ -94,9 +94,27 @@ Not applicable
 The outcome should be similar to the below:
 
 <p align="center">
-  <img src="Example_Query.png">
+  <img src="Query_1.png">
 </p> 
 
 <p align="center">
-  <img src="Example_Query_bis.png">
+  <img src="Query_2.png">
 </p> 
+
+<p align="center">
+  <img src="Query_3.png">
+</p> 
+
+<p align="center">
+  <img src="Query_4.png">
+</p> 
+
+<p align="center">
+  <img src="Query_5.png">
+</p> 
+
+
+<p align="center">
+  <img src="Query_6.png">
+</p> 
+
