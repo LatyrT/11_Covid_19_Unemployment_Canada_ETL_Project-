@@ -73,6 +73,7 @@ The code is available as follows:
 * Download this entire project from GitHub
 * Run the [Jupyter Notebook](002-Python_&_SQL_Code/001_Data_Cleaning.ipynb) to extract data
 * [Create the tables](002-Python_&_SQL_Code/002_Covid_Tables.sql) in pgAdmin
+* [Load data into the database, see detailed steps in this guide](000-zDocumentation/002_ETL_PROCESS_COVID_19.docx)
 * [Query the tables](002-Python_&_SQL_Code/003_Covid_Queries.sql)
 
 
